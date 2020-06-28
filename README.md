@@ -1,2 +1,2 @@
-# python_requests
-Testing requests in python
+# Python requests
+Testing HTTP requests with python and "requests" library.
